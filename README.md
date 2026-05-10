@@ -8,7 +8,6 @@ A premium personal portfolio website for Pujan Shah, a Marketing & Advertising p
 - **Router**: TanStack Router v1 (file-based routing)
 - **Styling**: Tailwind CSS 4 + custom CSS (red & black theme)
 - **Content**: Content Collections (markdown)
-- **Deployment**: Netlify
 
 ## Running Locally
 
@@ -16,12 +15,6 @@ A premium personal portfolio website for Pujan Shah, a Marketing & Advertising p
 npm install
 npm run dev        # starts dev server at http://localhost:3000
 npm run build      # production build
-```
-
-Or with the Netlify CLI for full platform emulation:
-
-```bash
-netlify dev        # starts at http://localhost:8888
 ```
 
 ## Project Structure
